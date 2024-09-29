@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Legends Modding Docs",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#29698c",
+    "light": "#bac8ed",
+    "dark": "#3f3f3f",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#07C983",
+      "to": "#4bbeff"
     }
   },
   "topbarLinks": [
